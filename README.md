@@ -11,11 +11,11 @@ The CloudOperators organization and its projects are an open-source standard, co
 
 We have the following governance documents:
 
-| Governance Document                  | Purpose                                             |
-|--------------------------------------|-----------------------------------------------------|
-| [OWNERS.md](./OWNERS.md)             | Maintainers & Technical Steering Commmittee Members |
-| [Project Charter](./CHARTER.md)      | Structure, purpose and organization of project      |
-| [CONTRIBUTING.md](./CONTRIBUTING.md) | General contribution guidelines                     |
+| Governance Document               | Purpose                                             |
+|-----------------------------------|-----------------------------------------------------|
+| [Owners](./OWNERS.md)             | Maintainers & Technical Steering Commmittee Members |
+| [Project Charter](./CHARTER.md)   | Structure, purpose and organization of project      |
+| [Contributing](./CONTRIBUTING.md) | General contribution guidelines                     |
 
 ## Repository guidelines
 
