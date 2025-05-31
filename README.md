@@ -19,4 +19,4 @@ We have the following governance documents:
 
 ## Repository guidelines
 
-All new repositories repository under the CloudOperators name should follow the guidelines set out at [charts](./CHARTER.md).
+All new repositories repository under the CloudOperators name should follow the guidelines set out at our [charter](./CHARTER.md).
