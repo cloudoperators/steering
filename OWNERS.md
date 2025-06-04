@@ -21,7 +21,7 @@ This page contains all active and inactive TSC members.
 |---------------------|------------------------------------------------|--------------|
 | Ivo Gosemann        | [@IvoGoman](https://github.com/IvoGoman)       | SAP SE       | 
 | Richard Tief        | [@richardtief](https://github.com/richardtief) | SAP SE       | 
-| Uwe Meyer           | [@uwe-mayer](https://github.com/uwe-mayer)     | SAP SE       | 
+| Uwe Mayer           | [@uwe-mayer](https://github.com/uwe-mayer)     | SAP SE       | 
 | Jonathan Schwarze   | [@joluc](https://github.com/joluc)             | SAP SE       | 
 | Michael Schmidt     | [@BugRoger](https://github.com/BugRoger)       | SAP SE       | 
 | Fabian Ruff         | [@databus23](https://github.com/databus23)     | SAP SE       | 
